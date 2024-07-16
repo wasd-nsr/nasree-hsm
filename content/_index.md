@@ -52,14 +52,15 @@ sections:
   - block: collection
     content:
       title: Certificates
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy making things. Here are certificates from courses that I enrolled.
       filters:
         folders:
           - certificate
     design:
-      view: compact 
+      # view: compact 
+      view: article-grid
       fill_image: false
-      # columns: 3
+      columns: 2
 
   - block: skills
     content:
