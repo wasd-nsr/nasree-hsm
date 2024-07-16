@@ -44,7 +44,7 @@ education:
     institution: Sakarya University of Applied Sciences, Sakarya, Turkiye
     date_start: 2019-09-02
     date_end: 2023-07-28
-    summary: |3-
+    summary: |
       - GPA: 3.51/4.0
       - Sponsored by Turkiye Scholarship
       - Final Year Project:
