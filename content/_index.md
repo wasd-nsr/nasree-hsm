@@ -28,7 +28,7 @@ sections:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
 
-  - block: hugo-blox/blox/community/my-education
+  - block: community/my-education
     id: education
     content:
       username: admin
