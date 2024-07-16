@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: /
+    url: /#bio
     weight: 1
   - name: Education
     url: /#education
