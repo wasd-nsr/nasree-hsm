@@ -144,7 +144,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Finalist - Artificial Intelligence in Transport
+  - title: Finalist (15th) - Artificial Intelligence in Transport
     url: ''
     date: '2023-04-20'
     awarder: TEKNOFEST
@@ -153,7 +153,7 @@ awards:
       - Became a finalist, placed 15th national (from 233 teams) as SUBU-AI.
       - Parking area, human, and vehicles detection from drone aerial images and predict the parking area availability.
 
-  - title: Finalist - Artificial Intelligence in Healthcare
+  - title: Finalist (15th) - Artificial Intelligence in Healthcare
     url: ''
     date: '2022-08-20'
     awarder: TEKNOFEST
