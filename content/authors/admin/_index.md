@@ -146,7 +146,7 @@ work:
 awards:
   - title: Finalist - Artificial Intelligence in Transport
     url: ''
-    date: '2023-4-20'
+    date: '2023-04-20'
     awarder: TEKNOFEST
     icon: coursera
     summary: |
@@ -155,7 +155,7 @@ awards:
 
   - title: Finalist - Artificial Intelligence in Healthcare
     url: ''
-    date: '2022-8-20'
+    date: '2022-08-20'
     awarder: TEKNOFEST
     icon: coursera
     summary: |
