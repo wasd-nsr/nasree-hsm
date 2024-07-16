@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+# role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: ''
-    url: ''
+# organizations:
+#   - name: ''
+#     url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,70 +30,75 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nasree.hsm@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mechatronics Engineering
     institution: Sakarya University of Applied Sciences, Sakarya, Turkiye
     date_start: 2019-09-02
     date_end: 2023-07-28
     summary: |
       GPA: 3.51/4.0
+      Sponsored by Turkiye Scholarship
+      Final Year Project:
+        "Development of ROS-based Robot Arm with Autonomous Object Grasping Ability"
+          Using a RGB camera as single visual sensor and leveraged ROS-Noetic and Moveit package for robotics object grasping. HRG-Net is then deployed for grasps generation. Lastly, user interface is created with Flask to improve accessibility through website.
+  
+  - area: High School
+    institution: Gombak Integrated Fully Residential School, Kuala Lumpur, Malaysia
+    date_start: 2012
+    date_end: 2017
+    summary:
+      Sponsored by Malaysian Ministry of Education Scholarship
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Science and Analytics Department Teaching Assistant
+    company_name: Fatoni University, Pattani, Thailand
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-12
+    date_end: 2024-03
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - TA for Machine Learning subject.
+      - Helping students understand ML concepts through real world examples and hands on experiences.
+
+  - position: AI/ML Intern
+    company_name: Crea Cubed Inc., San Francisco, CA, U.S. (Remote)
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-02
+    date_end: 2023-06
+    summary: |
+      - Developed applications using LLM stacks (Langchain, Vector db).
+      - Won a 3rd place in a hackathon with the LLM project.
+  
+  - position: AI/ML Intern
+    company_name: VISIGHT Technology, Istanbul, Türkiye
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01
+    date_end: 2023-02
+    summary: |
+      - Built and experimented machine learning pipeline for haze prediction dataset.
+      - Visualized and presented the dataset and result using Tableau.
+
+  - position: AI/ML Intern
+    company_name: Novelty, Kocaeli, Türkiye
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-02
+    date_end: 2023-06
+    summary: |
+      - Explored computer vision applications using OpenCV and basic Deep learning.
+      - Assigned as one of facilitator responsible for explaining about Deep learning.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
