@@ -63,8 +63,8 @@ work:
     company_name: Fatoni University, Pattani, Thailand
     company_url: ''
     company_logo: ''
-    date_start: 2023-12
-    date_end: 2024-03
+    date_start: 2023-12-22
+    date_end: 2024-03-28
     summary: |
       - TA for Machine Learning subject.
       - Helping students understand ML concepts through real world examples and hands on experiences.
@@ -73,8 +73,8 @@ work:
     company_name: Crea Cubed Inc., San Francisco, CA, U.S. (Remote)
     company_url: ''
     company_logo: ''
-    date_start: 2023-02
-    date_end: 2023-06
+    date_start: 2023-02-25
+    date_end: 2023-06-23
     summary: |
       - Developed applications using LLM stacks (Langchain, Vector db).
       - Won a 3rd place in a hackathon with the LLM project.
@@ -83,8 +83,8 @@ work:
     company_name: VISIGHT Technology, Istanbul, Türkiye
     company_url: ''
     company_logo: ''
-    date_start: 2023-01
-    date_end: 2023-02
+    date_start: 2023-01-03
+    date_end: 2023-02-24
     summary: |
       - Built and experimented machine learning pipeline for haze prediction dataset.
       - Visualized and presented the dataset and result using Tableau.
@@ -93,8 +93,8 @@ work:
     company_name: Novelty, Kocaeli, Türkiye
     company_url: ''
     company_logo: ''
-    date_start: 2023-02
-    date_end: 2023-06
+    date_start: 2023-08-22
+    date_end: 2023-09-24
     summary: |
       - Explored computer vision applications using OpenCV and basic Deep learning.
       - Assigned as one of facilitator responsible for explaining about Deep learning.
