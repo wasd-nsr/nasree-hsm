@@ -52,9 +52,9 @@ education:
   
   - area: High School
     institution: Gombak Integrated Fully Residential School, Kuala Lumpur, Malaysia
-    date_start: '2012'
-    date_end: '2017'
-    summary:
+    date_start: 2012-06-23
+    date_end: 2017-12-12
+    summary:  |
       Sponsored by Malaysian Ministry of Education Scholarship
       
 work:
