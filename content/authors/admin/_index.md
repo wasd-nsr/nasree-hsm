@@ -47,7 +47,8 @@ education:
     summary: |
       - GPA: 3.51/4.0
       - Sponsored by Turkiye Scholarship
-      - Final Year Project: "Development of ROS-based Robot Arm with Autonomous Object Grasping Ability"
+      - Final Year Project:
+        - "Development of ROS-based Robot Arm with Autonomous Object Grasping Ability"
         - Using a RGB camera as single visual sensor and leveraged ROS-Noetic and Moveit package for robotics object grasping. HRG-Net is then deployed for grasps generation. Lastly, user interface is created with Flask to improve accessibility through website.
   
   - area: High School
