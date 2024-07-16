@@ -36,7 +36,8 @@ profiles:
 
 education:
   - area: BSc Mechatronics Engineering
-    institution: Sakarya University of Applied Sciences, Sakarya, Turkiye
+    institution: Sakarya University of Applied Sciences
+    location: Sakarya, Turkiye
     date_start: 2019-09-02
     date_end: 2023-07-28
     summary: |
@@ -47,7 +48,8 @@ education:
         - Using a RGB camera as single visual sensor and leveraged ROS-Noetic and Moveit package for robotics object grasping. HRG-Net is then deployed for grasps generation. Lastly, user interface is created with Flask to improve accessibility through website.
   
   - area: High School
-    institution: Gombak Integrated Fully Residential School, Kuala Lumpur, Malaysia
+    institution: Gombak Integrated Fully Residential School
+    location: Kuala Lumpur, Malaysia
     date_start: 2012-06-23
     date_end: 2017-12-12
     summary:  |
@@ -55,7 +57,8 @@ education:
       
 work:
   - position: Data Science and Analytics Department Teaching Assistant
-    company_name: Fatoni University, Pattani, Thailand
+    company_name: Fatoni University
+    location: Pattani, Thailand
     company_url: ''
     company_logo: ''
     date_start: 2023-12-22
@@ -65,7 +68,8 @@ work:
       - Helping students understand ML concepts through real world examples and hands on experiences.
 
   - position: AI/ML Intern
-    company_name: Crea Cubed Inc., San Francisco, CA, U.S. (Remote)
+    company_name: Crea Cubed Inc.
+    location: San Francisco, CA, U.S. (Remote)
     company_url: ''
     company_logo: ''
     date_start: 2023-02-25
@@ -75,7 +79,8 @@ work:
       - Won a 3rd place in a hackathon with the LLM project.
   
   - position: AI/ML Intern
-    company_name: VISIGHT Technology, Istanbul, Türkiye
+    company_name: VISIGHT Technology
+    location: Istanbul, Türkiye
     company_url: ''
     company_logo: ''
     date_start: 2023-01-03
@@ -85,7 +90,8 @@ work:
       - Visualized and presented the dataset and result using Tableau.
 
   - position: AI/ML Intern
-    company_name: Novelty, Kocaeli, Türkiye
+    company_name: Novelty
+    location: Kocaeli, Türkiye
     company_url: ''
     company_logo: ''
     date_start: 2023-08-22
