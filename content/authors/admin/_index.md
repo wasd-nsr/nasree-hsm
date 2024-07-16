@@ -40,7 +40,6 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - id: education
   - area: BSc Mechatronics Engineering
     institution: Sakarya University of Applied Sciences, Sakarya, Turkiye
     date_start: 2019-09-02
@@ -60,7 +59,6 @@ education:
       Sponsored by Malaysian Ministry of Education Scholarship
       
 work:
-  - id: experience
   - position: Data Science and Analytics Department Teaching Assistant
     company_name: Fatoni University, Pattani, Thailand
     company_url: ''

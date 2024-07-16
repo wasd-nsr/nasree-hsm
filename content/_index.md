@@ -29,10 +29,10 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
 
   - block: experience
+    id: education
     content:
       username: admin
     design:
-      columns: '2'
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
