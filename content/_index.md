@@ -11,6 +11,7 @@ design:
 
 # Page sections
 sections:
+
   - block: biography
     content:
       username: admin
@@ -19,28 +20,34 @@ sections:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
+      columns: '2'
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+
   - block: experience
     content:
       username: admin
     design:
+      columns: '2'
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
+
   - block: skills
     content:
       title: Skills & Hobbies
       username: admin
+
   - block: awards
     content:
       title: Awards
       username: admin
+
   - block: languages
     content:
       title: Languages
