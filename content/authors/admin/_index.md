@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NASREE 
+title: NASREE HAYEESAMA-AE
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -51,7 +51,7 @@ education:
     date_start: 2012-06-23
     date_end: 2017-12-12
     summary:  |
-      Sponsored by Malaysian Ministry of Education Scholarship
+      Sponsored by Malaysia's Ministry of Education Scholarship
       
 work:
   - position: Data Science and Analytics Department Teaching Assistant
