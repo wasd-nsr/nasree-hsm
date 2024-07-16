@@ -19,10 +19,10 @@ superuser: true
 # Role/position/tagline
 role: Director of Cloud Infrastructure
 
-# # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: ''
-#     url: ''
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: ''
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -62,7 +62,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mechatronics Engineering
     institution: Sakarya University of Applied Sciences, Sakarya, Turkiye
-    date_start: 2019-09-022
+    date_start: 2019-09-02
     date_end: 2023-07-28
     summary: |
       GPA: 3.51/4.0
