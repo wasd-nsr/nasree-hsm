@@ -54,14 +54,14 @@ education:
       Sponsored by Malaysia's Ministry of Education Scholarship
       
 work:
-  - position: Data Science and Analytics Department Teaching Assistant
+  - position: Teaching Assistant - Machine Learning
     company_name: Fatoni University, Pattani, Thailand
     company_url: ''
     company_logo: ''
     date_start: 2023-12-22
     date_end: 2024-03-28
     summary: |
-      - TA for Machine Learning subject.
+      - Data Science and Analytics Department.
       - Helping students understand ML concepts through real world examples and hands on experiences.
 
   - position: AI/ML Intern
@@ -81,6 +81,7 @@ work:
     date_start: 2023-01-03
     date_end: 2023-02-24
     summary: |
+      - short term internship
       - Built and experimented machine learning pipeline for haze prediction dataset.
       - Visualized and presented the dataset and result using Tableau.
 
@@ -91,6 +92,7 @@ work:
     date_start: 2023-08-22
     date_end: 2023-09-24
     summary: |
+      - short term internship
       - Explored computer vision applications using OpenCV and basic Deep learning.
       - Assigned as one of facilitator responsible for explaining about Deep learning.
   
