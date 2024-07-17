@@ -19,7 +19,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: https://www.canva.com/design/DAF4topmYvw/GBP1YwvtRUfLdxPfyM31QA/view?utm_content=DAF4topmYvw&utm_campaign=designshare&utm_medium=link&utm_source=editor
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -44,31 +44,42 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
 
-  - block: awards
+  - block: collection
+    id: achievements
     content:
       title: Achievements
-      username: admin
-
-  - block: collection
-    content:
-      title: Certificates
-      text: I enjoy making things. Here are certificates from courses that I enrolled.
+      text: I enjoy learning by doing. Here are a selection of projects that I have worked on.
       filters:
         folders:
-          - certificate
+          - achievements
     design:
       # view: compact 
-      view: article-grid
+      view: community/my-article-grid
       fill_image: false
-      columns: 2
+      columns: 3
 
-  - block: skills
+  - block: collection
+    id: certificates
     content:
-      title: Skills & Hobbies
-      username: admin
+      title: Certificates
+      text: I can't stop learning. " The more I learn, the more I realize how much I don't know "
+      filters:
+        folders:
+          - certificates
+      count: 10
+    design:
+      # view: compact 
+      view: community/my-article-grid
+      fill_image: false
+      columns: 4
 
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

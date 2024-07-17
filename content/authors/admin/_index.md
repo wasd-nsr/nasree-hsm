@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: Director of Cloud Infrastructure
+role: Autonomous Robots, Robot Learning, Deep Reinforcement Learning
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -45,7 +45,10 @@ education:
       - Final Year Project:
         - "Development of ROS-based Robot Arm with Autonomous Object Grasping Ability"
         - Using a RGB camera as single visual sensor and leveraged ROS-Noetic and Moveit package for robotics object grasping. HRG-Net is then deployed for grasps generation. Lastly, user interface is created with Flask to improve accessibility through website.
-  
+    button:
+      text: 'DEMO'
+      url: 'https://drive.google.com/drive/u/0/folders/12MKf_GzWy96e0nvnOu-I8Rhy5QGF29Dm'
+
   - area: High School
     institution: Gombak Integrated Fully Residential School, Kuala Lumpur, Malaysia
     date_start: 2012-06-23
@@ -143,33 +146,70 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Finalist (15th) - Artificial Intelligence in Transport
-    url: ''
-    date: '2023-04-20'
-    awarder: TEKNOFEST
-    icon: coursera
-    summary: |
-      - Became a finalist, placed 15th national (from 233 teams) as SUBU-AI.
-      - Parking area, human, and vehicles detection from drone aerial images and predict the parking area availability.
+# awards:
+#   - title: IELTS
+#     url: ''
+#     date: '2023-06-20'
+#     awarder: British Council
+#     icon: custom/BritishCouncil_Logo
+#     summary: |
+#       - Overall Score: 7.5
+#       - Listening 9.0, Reading 8.5, Writing 6.5, Speaking 6.5.
 
-  - title: Finalist (15th) - Artificial Intelligence in Healthcare
-    url: ''
-    date: '2022-08-20'
-    awarder: TEKNOFEST
-    icon: coursera
-    summary: |
-      - Became a finalist, placed 7th national (from 156 teams) as SUBU-AI AVVEROES.
-      - Abdominal diseases detection from given CT scan images.
-  
-  - title: TUBITAK 2209A - Soft Robotic System on UAV
-    url: ''
-    date: '2022-07-20'
-    awarder: TUBITAK
-    icon: coursera
-    summary: |
-      - Research project support grant for university students .
-      - Studied and developed a soft robotic gripper system and integrated it to a UAV.
+#   - title: Deep Learning Specialization (5 courses)
+#     url: ''
+#     date: '2022-02-20'
+#     awarder: Coursera x DeepLearning.AI
+#     icon: dl
+#     summary: |
+#       Deep learning and its applications in Computer Vision and NLP field using Tensorflow.
+
+#   - title: AWS Machine Learning Foundations
+#     url: ''
+#     date: '2022-10-20'
+#     awarder: Udacity
+#     icon: udacity
+#     summary: |
+#       Machine Learning and general software engineering practices.
+
+#   - title: Deep Reinforcement Learning Course.
+#     url: ''
+#     date: '2023-07-20'
+#     awarder: Hugging Face
+#     icon: hf
+#     summary: |
+#       Deep Reinforcement Learning hands on applications such as Gym, Stable-Baselines3 and UnityML.
+
+#   - title: Reinforcement Learning Specialization (4 courses)
+#     url: ''
+#     date: '2024-03-20'
+#     awarder: Coursera x University of Alberta
+#     icon: uofA
+#     summary: |
+#       Classical Reinforcement Learning and its use cases
+
+#   - title: Modern Robotics - Mechanics, Planning, and Control Specialization (4/6 courses)
+#     url: ''
+#     date: '2024-03-20'
+#     awarder: Coursera x Northwestern University 
+#     icon: nu
+#     summary: |
+#       Modern robotics concepts for the kinematics, dynamics, motion planning, and control of mobile robots and robot arms.
+
+#   - title: Introduction to Robotics with Webots Specialization (2/3 courses)
+#     url: ''
+#     date: '2024-03-20'
+#     awarder: Coursera x University of Colorado Boulder
+#     icon: uc
+#     summary: |
+#       Implement a complete mobile manipulation pipeline in the Webots simulator using Python.
+
+#   - title: Robot Learning
+#     url: ''
+#     date: '2024-06-20'
+#     awarder: AI Campus x TU Darmstadt
+#     icon: tu-d
+#     summary: |
+#       Robot learning foundation including optimal control, ML, RL, and imitation learning. 
 ---
-
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I'm a robotics enthusiast passionate about unlocking the potential of AI through robot learning. With a strong foundation in mechatronics and hands-on experience in AI and robotics projects, I'm eager to explore the intersection of these fields. I seek to contribute to the development of intelligent, adaptable robots that can positively impact the world.

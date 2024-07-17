@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificates | Nasree Hayeesama-ae</title>
+    <link>http://localhost:1313/certificate/</link>
+      <atom:link href="http://localhost:1313/certificate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Certificates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Certificates</title>
+      <link>http://localhost:1313/certificate/</link>
+    </image>
+    
+    <item>
+      <title>Finalist (7th) - TEKNOFEST AI in Healthcare</title>
+      <link>http://localhost:1313/certificate/teknofest_health/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificate/teknofest_health/</guid>
+      <description>&lt;p&gt;Became a finalist, placed 7th national (from 156 teams) as SUBU-AI AVVEROES
+Abdominal diseases detection from given CT scan images.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finalist (15th) - TEKNOFEST AI in Transport</title>
+      <link>http://localhost:1313/certificate/teknofest_transport/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificate/teknofest_transport/</guid>
+      <description>&lt;p&gt;Became a finalist, placed 15th national (from 233 teams) as SUBU-AI.
+Parking area, human, and vehicles detection from drone aerial images and predict the parking area availability.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TUBITAK 2209A - Soft Robotic Gripper for UAV</title>
+      <link>http://localhost:1313/certificate/tubitak/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificate/tubitak/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Research project support grant for university students .&lt;/li&gt;
+&lt;li&gt;Studied and developed a soft robotic gripper system and integrated it to a UAV.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

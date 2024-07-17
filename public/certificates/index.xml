@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificates | Nasree Hayeesama-ae</title>
+    <link>http://localhost:1313/certificates/</link>
+      <atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Certificates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Certificates</title>
+      <link>http://localhost:1313/certificates/</link>
+    </image>
+    
+    <item>
+      <title>Robot Learning</title>
+      <link>http://localhost:1313/certificates/tud-robot-learning/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/tud-robot-learning/</guid>
+      <description>&lt;p&gt;Robot learning foundation including optimal control, ML, RL, and imitation learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Robotics with Webots Specialization (2/3 courses)</title>
+      <link>http://localhost:1313/certificates/cu-webots/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/cu-webots/</guid>
+      <description>&lt;p&gt;Implement a complete mobile manipulation pipeline in the Webots simulator using Python.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modern Robotics - Mechanics, Planning, and Control Specialization (4/6 courses)</title>
+      <link>http://localhost:1313/certificates/nu-mr/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/nu-mr/</guid>
+      <description>&lt;p&gt;Modern robotics concepts for the kinematics, dynamics, motion planning, and control of mobile robots and robot arms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Specialization (4 courses)</title>
+      <link>http://localhost:1313/certificates/uoa-rl/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/uoa-rl/</guid>
+      <description>&lt;p&gt;Classical Reinforcement Learning and its use cases&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning Course</title>
+      <link>http://localhost:1313/certificates/hf-deep-rl/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/hf-deep-rl/</guid>
+      <description>&lt;p&gt;Deep Reinforcement Learning hands on applications such as Gym, Stable-Baselines3 and UnityML.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IELTS</title>
+      <link>http://localhost:1313/certificates/ielts/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/ielts/</guid>
+      <description>&lt;p&gt;Overall score 7.5: Listening 9.0, Reading 8.5, Writing 6.5, Speaking 6.5&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AWS Machine Learning Foundations 2022</title>
+      <link>http://localhost:1313/certificates/udacity-aws-ml/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/udacity-aws-ml/</guid>
+      <description>&lt;p&gt;Machine Learning and general software engineering practices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Specialization (5 courses)</title>
+      <link>http://localhost:1313/certificates/deeplearning/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certificates/deeplearning/</guid>
+      <description>&lt;p&gt;Deep learning and its applications in Computer Vision and NLP field using Tensorflow.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
